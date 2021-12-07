@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @taylp-2865
+- 👀 I’m interested in Ruby
+- 🌱 I’m currently learning Ruby
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me fb.com/vinsrayleigh
